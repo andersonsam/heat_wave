@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/416898362.svg)](https://zenodo.org/badge/latestdoi/416898362)
+
 # Modelling the streamflow response to heatwaves across glacierized basins in southwestern Canada
 
 Code associated with the paper "Modelling the streamflow response to heatwaves across glacierized basins in southwestern Canada" by Sam Anderson and Valentina Radic (2023).
