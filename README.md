@@ -7,6 +7,11 @@ This study applies previously trained deep learning hydrological models ([code](
 For detailed information about the results and their implications, please see the associated paper.  See below for a brief overview of context and results of this study.
 ___  
 
+## Running the Code  
+
+This code runs best using a GPU in Google Colab, in order for fastest application of the deep learning models.  The code starts by cloning in this heatwave repo (where the code and requirements are stored), as well as [this model development repo](https://github.com/andersonsam/cnn_lstm_era) (where the deep learning models are stored).  All required datasets are stored and explained in the model development repo.  All data generated in this code is saved and accessed in Google Drive for ease of access within Google Colab.
+___
+
 ## Study Region
 
 ![alt text](https://github.com/andersonsam/heat_wave/blob/main/Figures/study_region%20(1).png)
